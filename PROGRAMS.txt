@@ -1,0 +1,21 @@
+Ex1/ex1a.py - Operator-Based Calculation and Comparison
+Ex1/ex1b.py - Assignment and Conditional Operators
+Ex1/ex1c.py - Bitwise Swap
+Ex2/ex2a.py - Prime Numbers
+Ex2/ex2b.py - Generation of Numbers Not Divisible by 2, 3 and 5
+Ex2/ex2c.py - Leap Year
+Ex3/ex3a.py - Matrix Addition of Two Numbers
+Ex3/ex3b.py - Matrix Subtraction
+Ex3/ex3c.py - Matrix Multiplication
+Ex4/ex4a.py - Fibonacci Sequence Up to a Given Number Using Function
+Ex4/ex4b.py - Armstrong Number Using Functions
+Ex5/ex5a.py - Sum of Digits of a Positive Integer Using Recursion
+Ex5/ex5b.py - Factorial of a Given Number Using Recursion
+Ex5/ex5c.py - Towers of Hanoi Using Recursion
+Ex6/ex6a.py - Find the Length of the String
+Ex6/ex6b.py - Concatenate Two Strings Using Pointers
+Ex6/ex6c.py - Check the Given String is a Palindrome
+Ex7/ex7.py - Compute Internal Marks of Students for Five Different Subjects Using Structures
+Ex8/ex8.py - Data Organization for Multiple Items Using a Structure Array
+Ex9/ex9.py - Storing Employee Data Using Union
+Ex10/ex10.py - Inserting, Updating, Deleting, and Appending Customer Details in a Banking System Using Random Access File
